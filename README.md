@@ -29,7 +29,7 @@ The interface is built to facilitate State-Forking—the ability to branch a con
 
 **Frontend**: React / TypeScript (for robust state management)
 
-**Visualisation**: [D3.js or React Flow] for the Branching Path UI
+**Visualisation**: [D3.js] for the Branching Path UI
 
 **Backend/Auth**: PostgreSQL for real-time state persistence
 
