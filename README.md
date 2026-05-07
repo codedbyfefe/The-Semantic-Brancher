@@ -34,3 +34,7 @@ The interface is built to facilitate State-Forking—the ability to branch a con
 **Backend/Auth**: PostgreSQL for real-time state persistence
 
 **AI Integration**: OpenAI
+
+## 🧪 The Experiment: Practice-Led Research
+
+This tool serves as a probe for a practice-led study in System Design and World Building.
