@@ -71,7 +71,7 @@ export default function SemanticBrancher() {
     <div className="sb-app-wrapper">
       <header className="sb-topbar">
         <span className="sb-app-title">THE SEMANTIC BRANCHER</span>
-        <span style={{ fontSize: '12px', opacity: 0.4 }}></span> 
+        <span style={{ fontSize: '12px', opacity: 0.4 }}>Research Probe</span> 
       </header>
 
       <div className="sb-grid-workspace">
